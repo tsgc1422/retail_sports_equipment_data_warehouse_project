@@ -1,2 +1,2 @@
 # sql_data_warehouse_project
-Building modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
+Built modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics for ecommerce sports equipment data from CRM and ERP.
